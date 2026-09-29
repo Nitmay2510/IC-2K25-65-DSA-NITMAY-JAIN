@@ -1,6 +1,6 @@
 # 🚀 Data Structures & Algorithms (DSA) in C++
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-DSA--Repository-blue?style=flat-square&logo=github)](https://github.com/Nitmay2510/Your-DS-Repo-Name)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-DSA--Repository-blue?style=flat-square&logo=github)](https://github.com/Nitmay2510/IC-2K25-65-DSA-NITMAY-JAIN)
 [![Author](https://img.shields.io/badge/Author-Nitmay%20Jain-orange?style=flat-square)](https://github.com/Nitmay2510)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)]()
 
