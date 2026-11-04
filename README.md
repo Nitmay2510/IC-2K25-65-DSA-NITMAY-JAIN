@@ -7,3 +7,12 @@
 Welcome to my **Data Structures & Algorithms (DSA)** repository! This collection contains implementation of core data structures, standard algorithms, and problem-solving solutions aimed at strengthening algorithmic thinking and coding proficiency.
 
 ---
+
+📂 Repository Structure
+IC-2K25-65-DSA-NITMAY-JAIN/
+│
+├── Lab01-Introduction-Arrays/     # Introduction to DSA and array operations
+├── Lab02-Sorting-Searching/       # Searching and sorting algorithms
+├── Stack/                         # Stack implementation and applications
+├── Queue/                         # Queue implementation and applications
+└── README.md                      # Repository documentation
