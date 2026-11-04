@@ -8,11 +8,14 @@ Welcome to my **Data Structures & Algorithms (DSA)** repository! This collection
 
 ---
 
-📂 Repository Structure
+## 📂 Repository Structure
+
+```text
 IC-2K25-65-DSA-NITMAY-JAIN/
 │
-├── Lab01-Introduction-Arrays/     # Introduction to DSA and array operations
-├── Lab02-Sorting-Searching/       # Searching and sorting algorithms
-├── Stack/                         # Stack implementation and applications
-├── Queue/                         # Queue implementation and applications
-└── README.md                      # Repository documentation
+├── Lab01-Introduction-Arrays/   # Introduction to DSA and array operations
+├── Lab02-Sorting-Searching/     # Searching and sorting algorithms
+├── Stack/                       # Stack implementation and applications
+├── Queue/                       # Queue implementation and applications
+└── README.md                    # Repository documentation
+```
