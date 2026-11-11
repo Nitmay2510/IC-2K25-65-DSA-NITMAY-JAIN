@@ -17,9 +17,9 @@ IC-2K25-65-DSA-NITMAY-JAIN/
 │
 ├── Lab02-Sorting-Searching/       # Sorting and searching algorithms
 │
-├── Stack/                         # Stack implementation and operations
+├── Lab03-Queue/                   # Queue implementation and operations
 │
-├── Queue/                         # Queue implementation and operations
+├── Lab04-Stack/                   # Stack implementation and operations
 │
 └── README.md                      # Repository documentation
 ```
@@ -30,11 +30,10 @@ IC-2K25-65-DSA-NITMAY-JAIN/
 
 - **Arrays:** 1D and 2D array operations
 - **Matrices:** Sparse matrix and matrix calculator
-- **Sorting:** Bubble, Selection, Insertion, Merge, Quick, Heap and Radix Sort
-- **Searching:** Linear Search and Binary Search
-- **Stack:** Basic and multiple stack operations
-- **Queue:** Simple Queue and Circular Queue
-- **DSA Projects:** Student Record Management System
+- **Sorting:** Bubble, Selection, Merge, Quick
+- **Searching:** Linear Search 
+- **Stack:** Simple stack operations
+- **Queue:** Priority Queue 
 - **Analysis:** Time and Space Complexity
 
 ---
